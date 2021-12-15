@@ -8,7 +8,7 @@ const Sec=(Sec)=>{
         <Fragment>
         <div className="flex flex-row">
             <div className="flex flex-1 justify-begin items-center">
-                        <img src={image} />
+                        <img src={image} alt={"body"} />
                     </div>
 
              <div className="flex flex-col flex justify-around   py-3 px-40  items-center">
