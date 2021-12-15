@@ -1,4 +1,4 @@
- import react, { Fragment } from 'react';
+ import React, { Fragment } from 'react';
 import image from './../Assets/image.jpg';
 import PaymentSvg from './PaymentSvg';
 
